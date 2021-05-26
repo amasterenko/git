@@ -5,4 +5,8 @@ public class Test {
     public Test(int id) {
         this.id = id;
     }
+
+    public void method1() {
+        //Doing anything here...
+    }
 }
